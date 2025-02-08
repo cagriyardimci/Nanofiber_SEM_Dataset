@@ -24,19 +24,23 @@ The images were preprocessed using a bilateral filter, followed by data augmenta
 
 Requirements
 To replicate the study, install the required dependencies:
+
 Matlab
 Matlab - Deep Network Designer
 
 Usage
 Training the Model
+
 Run the following code in MATLAB
 Nanofiber_Classifier.m
 
 Testing the Model
+
 Run the following code in MATLAB
 Test_Classifier.m
 
 Performance Metrics
+
 sensitivity
 specificity
 accuracy
