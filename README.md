@@ -26,6 +26,7 @@ Requirements
 To replicate the study, install the required dependencies:
 
 Matlab
+
 Matlab - Deep Network Designer
 
 Usage
