@@ -34,7 +34,8 @@ Matlab
 
 Matlab - Deep Network Designer
 
-Usage
+Usage:
+
 Training the Model
 
 Run the following code in MATLAB;
