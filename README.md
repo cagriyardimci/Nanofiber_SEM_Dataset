@@ -1,6 +1,9 @@
 Nanofiber Classifier: Automated Defect Detection in Electrospun PAN Nanofibers
+
 Authors: Cagri YARDIMCI - Mevlut ERSOY
+
 Year: 2025
+
 Journal: The Visual Computer
 
 Project Overview
