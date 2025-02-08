@@ -32,21 +32,21 @@ Matlab - Deep Network Designer
 Usage
 Training the Model
 
-Run the following code in MATLAB
+Run the following code in MATLAB;
 Nanofiber_Classifier.m
 
 Testing the Model
 
-Run the following code in MATLAB
+Run the following code in MATLAB;
 Test_Classifier.m
 
-Performance Metrics
+Performance Metrics;
 
-sensitivity
-specificity
-accuracy
-precision
-f_measure
+sensitivity,
+specificity,
+accuracy,
+precision,
+f_measure,
 
 Citation
 If you use this repository in your research, please cite the original article:
