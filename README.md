@@ -15,8 +15,8 @@ Abstract
 
 This study presents a deep learning-based framework for automated defect detection in electrospun Polyacrylonitrile (PAN) nanofibers using Scanning Electron Microscope (SEM) images. The proposed Nanofiber Classifier model is trained on a dataset consisting of three categories:
 
-Slightly Defective
-Defective
+Slightly Defective,
+Defective,
 Non-Defective
 
 Dataset
