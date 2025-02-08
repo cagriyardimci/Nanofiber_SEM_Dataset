@@ -7,10 +7,12 @@ Year: 2025
 Journal: The Visual Computer
 
 Project Overview
+
 This repository contains the source code and dataset necessary to replicate the results of the research paper:
 "Automated Defect Classification of Electrospun Polyacrylonitrile Nanofibers via Deep Learning of SEM Images"
 
 Abstract
+
 This study presents a deep learning-based framework for automated defect detection in electrospun Polyacrylonitrile (PAN) nanofibers using Scanning Electron Microscope (SEM) images. The proposed Nanofiber Classifier model is trained on a dataset consisting of three categories:
 
 Slightly Defective
