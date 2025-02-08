@@ -58,6 +58,7 @@ Citation
 If you use this repository in your research, please cite the original article:
 
 Cagri Yardimci et al. (2025), Automated Defect Classification of Electrospun Polyacrylonitrile Nanofibers via Deep Learning of SEM Images, The Visual Computer.
+
 https://doi.org/10.6084/m9.figshare.28376219
 
 Data citations should include a persistent identifier (such as a DOI), should be included in the reference list using the minimum information recommended by DataCite (Dataset Creator, Dataset Title, Publisher [repository], Publication Year, Identifier [e.g. DOI, Handle, Accession or ARK]) and follow journal style.
